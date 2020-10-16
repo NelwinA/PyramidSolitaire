@@ -1,0 +1,10 @@
+Changes:
+
+- I fixed my isGameOver() method
+- I added tests for isGameOver() method
+- I also fixed my getDraw method, I used to return a mutable list but now its a copy so it can’t be changed for cheating
+- I caught an index out of bounds exception in my remove method
+- I more general tests for BasicPyramidSolitaire class
+- I improved my Card class by making fields private
+- I organized the toString for Card class 
+
