@@ -1,0 +1,10 @@
+Changes:
+
+- I fixed my getRowWidth method (returns the size of the row instead of (row + 1))
+- I added a helper method to remove in Basic and Relaxed
+- the helper above is called isValidValueAndSet
+- I added tests for correctly starting the game after it has been called
+- To make sure startGame resets the game after the call I cleared every field of Basic everytime I call startGame
+
+
+
