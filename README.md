@@ -1,5 +1,5 @@
 # PyramidSolitaire
-This is a Pyramid Solitaire game that I've created in IntelliJ. 
+This is a Pyramid Solitaire game that I've created with Java on IntelliJ. 
 
 Rules of the Game:
 
